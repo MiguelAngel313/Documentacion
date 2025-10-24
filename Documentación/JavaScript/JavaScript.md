@@ -143,3 +143,18 @@ console.log(resultado);
     - `&&` AND
     - `||` OR
     - `!variable` NOT
+
+## **Short-circuit**
+
+Se pueden utilizar para asignar un valor a una variable en función de si su contenido tiene un valor u otro.
+- `let nombre = '';`
+- `let username = nombre || 'Anonimo';`
+En caso de que la variable nombre no contenga nada se asignará el valor `'Anonimo'`.
+
+## **Ternarios**
+
+Se utilizan para devolver un valor u otro en función de si su resultado es `true` o `false`.
+- `edad > 17 ? 'Es mayor de edad' : 'Es menor de edad';`
+
+
+

@@ -70,15 +70,26 @@ Varias líneas comentadas
 ## **Array**
 
 - **Declaración de un array**
-    - `let animalesm = ['conejo', 'caballo'];`
+    - `let animales = ['conejo', 'caballo'];`
+    - `const cars = [];`
+- Acceso a datos
+	- `let car = cars[0];`
 - **Mostrar todos los elementos del array**
     - `console.log(animales)`
 - **Mostrar un elemento en concreto**
     - `console.log(animales[0])`
 - **Añadir más elementos al array**
     - `animales[2] = 'dragon';`
+    - `cars[0] = "Opel";`
 - **Mostrar la longitud del array**
     - `console.log(animales.length);`
+- Propiedades y métodos
+	- `cars.toString();` Convierte el array a String
+	- `cars.length;` Devuelve la longitud de del array
+	- `cars.sort();` Ordena el array
+	- `cars[cars.length -1];` accede a la última posición del array
+	- `cars.push("Audi");` Añadir elementos
+
 
 ## **Funciones**
 ```
@@ -155,6 +166,73 @@ En caso de que la variable nombre no contenga nada se asignará el valor `'Anoni
 
 Se utilizan para devolver un valor u otro en función de si su resultado es `true` o `false`.
 - `edad > 17 ? 'Es mayor de edad' : 'Es menor de edad';`
+
+## **Control del flujo**
+
+- if
+```
+if (condicion){
+	expresion;
+} else if (condicion) {
+	expresion;
+} else {
+	expresion;
+}
+```
+- while
+```
+while (condicion) {
+	expresion;
+}
+```
+- do while
+```
+do {
+expresion;
+} while (condicion);
+```
+- for 
+```
+for (int i = 0; i < 10; i++) {
+	expresion;
+}
+
+for (let animal of animales) {
+	expresion;
+}
+```
+- for - in
+```
+let user = {
+	id: 1,
+	name: 'Miguel',
+	edad: 25,
+};
+
+for (let propiedad in user){
+	console.log(propiedad);
+}
+
+for (letindice in animales){
+	console.log(indice, animales[indice]);
+}
+```
+- switch
+```
+switch (variable){
+
+	case variable:
+		expresion;
+		break;
+		
+	case variable:
+		expresion;
+		break;
+		
+	default:
+		expresion;
+}
+```
 
 
 

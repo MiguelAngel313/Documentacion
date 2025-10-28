@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63edb385fcc0603c",
+        "id": "25dc774e5b924492",
         "type": "tabs",
         "children": [
           {
-            "id": "a126a9af4448dc7e",
+            "id": "260c5cfa4eb09bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "CSS/9. Texto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "9. Texto"
             }
           }
         ]
@@ -169,10 +169,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "a126a9af4448dc7e",
+  "active": "260c5cfa4eb09bc9",
   "lastOpenFiles": [
-    "Cookies.md",
+    "CSS/7. Overflow y Outline.md",
+    "CSS/9. Texto.md",
+    "CSS/8. Unidades de Medida.md",
+    "CSS/6. Margin y Paddin.md",
+    "CSS/5. Backgroud.md",
+    "CSS/4. Border.md",
+    "CSS/3. Color.md",
+    "CSS/1. Selectores.md",
+    "CSS/2. Comentarios.md",
+    "CSS",
+    "Session.md",
     "JavaScript/JavaScript.md",
+    "Cookies.md",
     "NetBeans",
     "JavaScript",
     "Welcome.md"

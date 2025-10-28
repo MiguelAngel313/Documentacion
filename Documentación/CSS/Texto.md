@@ -1,0 +1,13 @@
+- `text-aling`
+	- `center` centra el contenido en el centro del elemento contenedor.
+	- `left` por defecto.
+	- `rigth`
+	- `justify` Agrega espacios entre las palabras hasta cubrir todo el espacio disponible.
+- `text-decoration`
+	- `none`
+	- `underline` Subrayado
+	- `line-through` Tachado
+	- `overline` Encima
+- `text-shadow: derecha abajo blur color;`
+- `font-family: fuente;`
+- Para agregar fuentes utilizar Google Fonts

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Estados de links y filter.md",
+                "file": "CSS/@media query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estados de links y filter"
+              "title": "@media query"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "260c5cfa4eb09bc9",
   "lastOpenFiles": [
+    "CSS/Estados de links y filter.md",
+    "CSS/@media query.md",
     "CSS/Grid.md",
     "CSS/Flex.md",
     "CSS/Display y Visibility.md",
@@ -181,7 +183,6 @@
     "CSS/Selectores y Variables.md",
     "CSS/Texto.md",
     "CSS/Backgroud.md",
-    "CSS/Estados de links y filter.md",
     "CSS/Listas y tablas.md",
     "CSS/Transition.md",
     "CSS/Position y Float.md",

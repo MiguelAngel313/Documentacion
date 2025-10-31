@@ -56,3 +56,16 @@ div h2, div h3 { color: blue;}
 ```
 
 
+## **Variables**
+```
+//Declaración de una variable
+
+:root{
+	--blanco: #EAEAEA;
+}
+
+//Utilización
+
+background: var(--blanco);
+
+```

@@ -1,4 +1,0 @@
-- Estilos para el borde de la tabla
-	- `border: solid 1px gray;`
-- Eliminar el espacio entre tablas
-	- `border-collapse: collapse;`

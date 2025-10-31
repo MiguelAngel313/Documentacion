@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Center y Box-shadow.md",
+                "file": "CSS/Estados de links y filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Center y Box-shadow"
+              "title": "Estados de links y filter"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "87e2b22652dd1930",
@@ -171,20 +171,23 @@
   },
   "active": "260c5cfa4eb09bc9",
   "lastOpenFiles": [
+    "CSS/Grid.md",
+    "CSS/Flex.md",
     "CSS/Display y Visibility.md",
     "CSS/Center y Box-shadow.md",
-    "CSS/Position y Float.md",
-    "CSS/Tabla.md",
-    "CSS/Selectores.md",
-    "CSS/Comentarios.md",
-    "CSS/Color.md",
-    "CSS/Border.md",
-    "CSS/Backgroud.md",
     "CSS/Margin y Paddin.md",
-    "CSS/Overflow y Outline.md",
-    "CSS/Unidades de Medida.md",
+    "CSS/Border.md",
+    "CSS/Comentarios.md",
+    "CSS/Selectores y Variables.md",
     "CSS/Texto.md",
-    "CSS/Estados de links y Listas.md",
+    "CSS/Backgroud.md",
+    "CSS/Estados de links y filter.md",
+    "CSS/Listas y tablas.md",
+    "CSS/Transition.md",
+    "CSS/Position y Float.md",
+    "CSS/Overflow y Outline.md",
+    "CSS/Color.md",
+    "CSS/Unidades de Medida.md",
     "CSS",
     "Session.md",
     "JavaScript/JavaScript.md",

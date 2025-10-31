@@ -1,0 +1,6 @@
+- `display:grid;`
+- `grid-template-columns: 1fr 1fr 1fr;` Divide el contenedor en 3 columnas de 1 fracción del contenedor
+- `grid-template-rows: repeat(6, 1fr);` Divide el contenedor en 6 filas de 1fr
+- `repeat(num de columnas, unidad de medida);` Esta función permite dividir el contenedor en el número de columnas o filas establecido especificando el tamaño de todas ellas
+- `grid-column: 1/5;` Establece cuantas columnas ocupa un elemento específico (comienza en la columna 1 y ocupa hasta la columna 5)
+- `grid-row: 1/5;` Establece el espacio de filas que va a ocupar un elemento en concreto.

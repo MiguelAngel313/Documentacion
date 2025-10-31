@@ -1,0 +1,12 @@
+- `display: flex;`
+- `flex-direction: row/colum;` Establece la posición en la que se van a colocar los elementos
+- `flex-wrap: wrap;` Hace que los elementos se ajusten solos utilizando el espacio necesario
+- `flex-flow: colum wrap;` Agrupa las dos funciones anteriores
+- `justifi-content: center;` Ajusta el espacio entre los elementos para que se distribuyan de forma uniforme
+- `justifi-content: space-between;` Asigna espacio entre los elementos
+- `aling-items: center;` Alinea los elementos de forma vertical
+- `aling-items: stretch;` Intenta que los elementos ocupen todo el espacio disponible
+- `aling-content: center;` Agrupa todos los elementos en una posición del contenedor
+- `order: 1;` Indica el orden en el que se muestra cada elemento
+- `flex-grow: 1;` Indica el espacio que ocupa un elemento concreto
+- `flex-shrink: 0;` Evita que el elemento se achique más de su ancho y alto establecido

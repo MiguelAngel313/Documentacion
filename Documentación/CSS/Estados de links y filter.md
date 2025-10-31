@@ -11,7 +11,5 @@
 
 Siempre deben mantener este orden.
 
-## **Listas**
-
-- Editar el estilo de la separación entre cada punto de la lista
-	- `list-style-type: none;`
+## **Filter**
+- `filter: drop-shadow(2px 2px 4px gray);` Muestra una sombre alrededor del contorno de un elemento.

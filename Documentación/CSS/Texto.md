@@ -8,6 +8,8 @@
 	- `underline` Subrayado
 	- `line-through` Tachado
 	- `overline` Encima
-- `text-shadow: derecha abajo blur color;`
+- `text-shadow: derecha abajo blur color;` Agrega una sombra al texto
 - `font-family: fuente;`
 - Para agregar fuentes utilizar Google Fonts
+- `text-enfasis-style:"💕";` Agrega un énfasis al texto
+- `text-enfasis-position: under left;`

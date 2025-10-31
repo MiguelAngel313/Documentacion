@@ -1,31 +1,19 @@
-- Color
-	- `background-color: red;`
-- Opacidad
-	- `background-opacity: 0.3;`
-- Imagen de fondo
-	- `background-image: url('imagen');`
-- Altura y ancho
-	- `background-heigth: 40px;`
-	- `bacground-width: 40px;`
+- `background-color: red;` Establece un color de fondo
+- `background-opacity: 0.3;` Establece una opacidad para el fondo
+- `background-image: url('imagen');` Establece una imagen de fondo
+- `background-heigth: 40px;` Establece la altura del fondo
+- `bacground-width: 40px;` establece el ancho del fondo
 - Tamaño
-	- Auto (valor por defecto)
-		- `background-size:auto;`
-	- Cover (rellena el fondo)
-		- `background-size:Cover;`
-	- Contain (Ajusta la altura del fondo al contendor)
-		- `background-size:contain;`
-	- Tamaño en pixeles
-		- `background-size:100px 100px;`
+	- `background-size:auto;` Valor por defecto
+	- `background-size:Cover;` Rellena por completo el fondo
+	- `background-size:contain;` Ajusta el fondo al contenedor
+	- `background-size:100px 100px;` Ajusta el tamaño en pixeles
 - Repeat
-	- no-repeat (Evita que el fondo se repita)
-		- `background-repeat:no-repeat;`
-	- repeat-x (Hace que el fondo se repita de forma horizontal)
-		- `background-repeat:repeat-x;`
-	- repeat-y (Hace que el fondo se repita de forma vertical)
-		- `background-repeat:repeat-y;`
+	- `background-repeat:no-repeat;` Evita que el fondo se repita
+	- `background-repeat:repeat-x;` Repite el fondo de forma horizontal
+	- `background-repeat:repeat-y;` Repite el fondo de forma vertical
 - Position
-	- Indica en la posición en la que va a aparecer el fondo inicialmente.
-	- `background-position:horizontal vertical;`
+	- `background-position:horizontal vertical;` Indica en la posición en la que va a aparecer el fondo inicialmente.
 		- left
 		- rigth
 		- top

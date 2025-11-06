@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/@media query.md",
+                "file": "CSS/Flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@media query"
+              "title": "Flex"
+            }
+          },
+          {
+            "id": "b62975ec0e72f248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Herramientas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Herramientas"
+            }
+          },
+          {
+            "id": "75260863d2b8a27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Aprender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aprender"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,12 +198,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "260c5cfa4eb09bc9",
+  "active": "760ad6aad7102092",
   "lastOpenFiles": [
-    "CSS/Estados de links y filter.md",
-    "CSS/@media query.md",
-    "CSS/Grid.md",
+    "Herramientas/Herramientas.md",
+    "Herramientas/Aprender.md",
     "CSS/Flex.md",
+    "Herramientas",
+    "CSS/@media query.md",
+    "CSS/Estados de links y filter.md",
+    "CSS/Grid.md",
     "CSS/Display y Visibility.md",
     "CSS/Center y Box-shadow.md",
     "CSS/Margin y Paddin.md",
@@ -190,9 +222,9 @@
     "CSS/Color.md",
     "CSS/Unidades de Medida.md",
     "CSS",
-    "Session.md",
+    "NetBeans/Session.md",
     "JavaScript/JavaScript.md",
-    "Cookies.md",
+    "NetBeans/Cookies.md",
     "NetBeans",
     "JavaScript",
     "Welcome.md"

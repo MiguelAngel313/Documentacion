@@ -4,3 +4,4 @@
 - `repeat(num de columnas, unidad de medida);` Esta función permite dividir el contenedor en el número de columnas o filas establecido especificando el tamaño de todas ellas
 - `grid-column: 1/5;` Establece cuantas columnas ocupa un elemento específico (comienza en la columna 1 y ocupa hasta la columna 5)
 - `grid-row: 1/5;` Establece el espacio de filas que va a ocupar un elemento en concreto.
+- `grid-template-column: repeat(auto-fit), minmax(250px, 1fr);` ajusta el número de columnas y les ajusta cada columna dentro de los valores máximos y mínimos.

@@ -11,6 +11,7 @@
 - `AOS`
 - `Supabase`
 - `Vercel`
+- `Github Pages`
 
 ## **Lenguajes**
 

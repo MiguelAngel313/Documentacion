@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25dc774e5b924492",
+        "id": "01250d18cd680f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "260c5cfa4eb09bc9",
+            "id": "dbee27b31cde47d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Flex.md",
+                "file": "CSS/Center y Box-shadow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flex"
+              "title": "Center y Box-shadow"
             }
           }
         ]
@@ -169,18 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "260c5cfa4eb09bc9",
+  "active": "dbee27b31cde47d4",
   "lastOpenFiles": [
+    "CSS/Margin y Paddin.md",
+    "CSS/Flex.md",
     "Herramientas/Herramientas.md",
     "Herramientas/Aprender.md",
     "CSS/Grid.md",
     "CSS/Center y Box-shadow.md",
-    "CSS/Flex.md",
     "Herramientas",
     "CSS/@media query.md",
     "CSS/Estados de links y filter.md",
     "CSS/Display y Visibility.md",
-    "CSS/Margin y Paddin.md",
     "CSS/Border.md",
     "CSS/Comentarios.md",
     "CSS/Selectores y Variables.md",

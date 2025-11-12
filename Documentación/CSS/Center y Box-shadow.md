@@ -15,3 +15,11 @@ text-aling: center;
 
 - Se utiliza para asignar una sombra a un objeto en vez de a un texto
 	- `box-shadow: derecha abajo blur color;`
+
+## **Centrado universal**
+```
+display: flex;
+justify-content: center; /* Centrado horizontal */
+align-items: center;     /* Centrado vertical */
+height: 100vh;
+```

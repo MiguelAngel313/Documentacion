@@ -29,6 +29,8 @@
 ## **Clases e Id**
 - `elemento.className = "clase";` Agrega una clase al elemento eliminando las demás
 - `elemento.id = "id1";` Agrega un id a un elemento
+- `elemento.classList.add('clase');` Agrega una clase sin eliminar el resto
+- `elemento.classList.remove('clase');` Elimina una clase sin eliminar el resto
 
 ## **Estilos**
 - `elemento.style.background = 'black';` Modifica o agrega estilos a los elementos

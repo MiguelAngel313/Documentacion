@@ -62,3 +62,5 @@
 - `promt('Texto a mostrar');` Permite introducir contenido a través de una alerta
 - `elemento.onclick = funcion;` Evitar poner paréntesis para que la función no se ejecute sin que se produzca el evento (click)
 - `elemento.onclick = null;` desactiva el evento
+## **Navegar**
+- `window.location.href = 'direccion';` Permite cambiar de página HTML

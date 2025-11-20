@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Cookies.md",
+                "file": "CSS/Flex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookies"
+              "title": "Flex"
             }
           }
         ],
@@ -184,10 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "760ad6aad7102092",
+  "active": "cb25ec6fda2259ab",
   "lastOpenFiles": [
-    "JavaScript/DOM.md",
     "JavaScript/Cookies.md",
+    "JavaScript/DOM.md",
     "JavaScript/JavaScript.md",
     "CSS/Center y Box-shadow.md",
     "CSS/Flex.md",

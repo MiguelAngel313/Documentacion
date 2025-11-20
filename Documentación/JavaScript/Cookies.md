@@ -8,7 +8,7 @@
 ```
 function setCookie (name, value, dias){
 	const fecha = new Date();
-	fecha.setTime(fecha.getTime() + (dias * 24 * 60 * 60 * 1000);
+	fecha.setTime(fecha.getTime() + (dias * 24 * 60 * 60 * 1000));
 	let expira = "expires=" + fecha.toUTCString();
 	document.cookie = `${name}=${value}; ${expira}; path=/;`;
 };
@@ -18,14 +18,14 @@ function setCookie (name, value, dias){
 
 ```
 function getCookie(name) {
-	const cookies = document.cookie.split('; ');
-	
-	for (let cookie of cookies) {
-		const [cookieName, cookieValue] = cookie.split('=');
-		if(cookie === name){
-			return decodeURIComponent(cookieValue);
-		}
-	}
-	return null;
-};
+    const cookies = document.cookie.split('; ');
+    
+    for (let cookie of cookies) {
+        const [cookieName, cookieValue] = cookie.split('=');
+        if(cookieName === name){  // Cambiado: debe comparar cookieName, no cookie
+            return decodeURIComponent(cookieValue);
+        }
+    }
+    return null;
+}
 ```
